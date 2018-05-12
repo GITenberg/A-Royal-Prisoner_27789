@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32910
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Souvestre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27789#A-Royal-Prisoner
 gutenberg_issued: '2009-01-13'
 gutenberg_type: Text
 identifiers:
